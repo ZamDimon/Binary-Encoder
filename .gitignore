@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Internal ignors
+Images/celeb_faces/img_align_celeba/*
