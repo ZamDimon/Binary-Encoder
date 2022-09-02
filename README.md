@@ -3,7 +3,7 @@
 
 **Binary encoder** is a part of the research project that extracts a feature vector from the face and converts it to the binary string. 
 
-![Binary Encoder Example](https://github.com/ZamDimon/Binary-Encoder/Images/presentation/binary_encoder.png) 
+![Binary Encoder Example](https://github.com/ZamDimon/Binary-Encoder/blob/main/Images/presentation/binary_encoder.png "Binary Encoder Example") 
 
 ### Structure of a project
 
