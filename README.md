@@ -1,9 +1,17 @@
 # Binary Encoder
-##### Created by Dmytro Zakharov under the supervision of Aleksandr Kuznetsov
+#### Created by Dmytro Zakharov under the supervision of Aleksandr Kuznetsov
 
 **Binary encoder** is a part of the research project that extracts a feature vector from the face and converts it to the binary string. 
 
-![Binary Encoder Example](https://github.com/ZamDimon/Binary-Encoder/blob/main/Images/presentation/binary_encoder.png "Binary Encoder Example") 
+### Examples
+
+#### Binary string for a pair of images of the same person
+
+![Binary Encoder Example](https://github.com/ZamDimon/Binary-Encoder/blob/main/Images/presentation/same_people.png "Binary Encoder Example") 
+
+#### Binary string for a pair of images of two different people
+
+![Binary Encoder Example](https://github.com/ZamDimon/Binary-Encoder/blob/main/Images/presentation/different-people.png "Binary Encoder Example") 
 
 ### Structure of a project
 
