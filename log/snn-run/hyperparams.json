@@ -1,0 +1,1 @@
+{"batch_size": 256, "epochs": 10, "steps_per_epoch": 17, "val_steps": 4, "alpha": 0.3, "num_hard": 128, "optimiser": "Adam", "lr": 6e-05, "emb_size": 128}
