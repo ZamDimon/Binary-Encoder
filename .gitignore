@@ -129,5 +129,7 @@ dmypy.json
 .pyre/
 
 # Internal ignors
-Images/celeb_faces/img_align_celeba/*
+images/celeb_faces/img_align_celeba/*
 binary_string_converter.ipynb
+csv_datasets/
+csv_datasets/*
