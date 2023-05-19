@@ -7,11 +7,11 @@
 
 #### Binary string for a pair of images of the same person
 
-![Binary Encoder Example](https://github.com/ZamDimon/Binary-Encoder/blob/main/Images/presentation/same_people.png "Binary Encoder Example")
+![Binary Encoder Example](https://github.com/ZamDimon/Binary-Encoder/blob/main/images/internal/same_people.png "Binary Encoder Example")
 
 #### Binary string for a pair of images of two different people
 
-![Binary Encoder Example](https://github.com/ZamDimon/Binary-Encoder/blob/main/Images/presentation/different-people.png "Binary Encoder Example")
+![Binary Encoder Example](https://github.com/ZamDimon/Binary-Encoder/blob/main/images/internal/different-people.png "Binary Encoder Example")
 
 ### Structure of a project
 
